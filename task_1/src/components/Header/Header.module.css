@@ -1,0 +1,26 @@
+.header{
+    padding-top: 30px;
+    min-height: 87px;
+}
+
+.header__title{
+    padding-bottom: 38px;
+    border-bottom: 1px solid #828282;
+}
+
+.header__list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 700;
+    font-size: 18;
+}
+
+a.header__link {
+    color: #828282;
+}
+
+a.header__link_active{
+    color: #070707;
+}
+

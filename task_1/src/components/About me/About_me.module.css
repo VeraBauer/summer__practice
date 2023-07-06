@@ -1,0 +1,12 @@
+.info {
+    background-color: #F6F6F6;
+    padding-top: 113px;
+    padding-bottom: 104px;
+    min-height: 506px;
+}
+
+.info__title {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 22px;
+}

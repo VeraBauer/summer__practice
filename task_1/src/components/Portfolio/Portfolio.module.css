@@ -1,0 +1,32 @@
+.portfolio {
+    background-color: #F6F6F6;
+    padding-top: 105px;
+    padding-bottom: 1px;
+}
+
+.portfolio__title {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 54px;
+}
+
+.portfolio__example {
+    text-align: center;
+}
+
+.portfolio__img {
+    margin-bottom: 41px;
+}
+
+.portfolio__example p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 102px;
+}
+
+.portfolio__example p a {
+    color: #000000;
+    text-decoration: underline;
+}
